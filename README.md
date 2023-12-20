@@ -1,3 +1,7 @@
-# gerenciamento-de-lab
-Grupo: João Vitor, Yuri Xavier, Luís Macena e Eliel Neto
-Descrição: Sistema de gerenciamento e agendamento de laboratório
+Hora Lab
+Objetivo: Facilitar o acesso aos laboratórios
+Grupo:
+João Vitor
+Yuri Xavier
+Eliel Neto
+Luís Macena
